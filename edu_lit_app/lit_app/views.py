@@ -6,8 +6,9 @@ def todo(request):
     data = {
         "tests": Test.objects.all()
     }
-    
     return render(request, "todo.html", data)
 
 
+def test_result(request):
+    logger.warning(request)
 
