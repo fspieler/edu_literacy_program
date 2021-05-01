@@ -13,8 +13,26 @@ class LitAppConfig(AppConfig):
     name = 'lit_app'
 
     def ready(self):
+        self.add_sample_student()
+        self.load_tests_from_json(BASE_DIR / 'sample_tests')
+
         if os.environ.get('LIT_APP_RESET'):
             self.load_tests_from_json(BASE_DIR / 'sample_tests')
+
+    def add_sample_student(self):
+        from lit_app.models import Student
+        
+        # DELETES ALL STUDENTS EVERY RUN
+        logger.warning('Deleting every student record...')
+        count = 0
+        while student_record := Student.objects.first():
+            count += 1
+            student_record.delete()
+
+        student_record = Student(
+            first_name='Jane',
+            last_name='Doe')
+        student_record.save()
 
     def load_tests_from_json(self, path):
         from lit_app.models import Question, Test

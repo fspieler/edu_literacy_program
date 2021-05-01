@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Eduliteracy</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+    {% load static %} 
+
+  <link rel="stylesheet" href="{% static 'todo.css' %}">
+
+</head>
+
+<body>
+    <form action="/test/{{test_submission_id}}/question/{{answer_id}}" method="post">
+      {% csrf_token %}
+     <h1>{{prompt}}</h1>
+      {% for option in answer_choices %}
+          <div> 
+              <input type="radio" name={{prompt}} value={{option}}>
+              <label for={{option}}>{{option}}</label>
+          </div>
+      {% endfor %}
+
+      <input type="submit" name="Next Question">
+    </form>
+</body>
+</html>
