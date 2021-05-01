@@ -15,7 +15,7 @@
 <body> 
     {% for test in tests %}
         <div> 
-            <h1>{{test.name}}</h1><button>Begin Test</button>
+            <h1>{{test.name}}</h1><button onclick="location.href = '/test/{{test.id}}/start'">Begin Test</button>
         </div>
     {% endfor %}
 </body>
