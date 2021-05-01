@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Eduliteracy</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+    {% load static %} 
+
+  <link rel="stylesheet" href="{% static 'todo.css' %}">
+
+</head>
+
+<body> 
+    {% for test in tests %}
+        <div> 
+            <h1>{{test.name}}</h1>
+        </div>
+    {% endfor %}
+</body>
+</html>
