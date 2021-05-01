@@ -13,7 +13,8 @@ class LitAppConfig(AppConfig):
     name = 'lit_app'
 
     def ready(self):
-        self.load_tests_from_json(BASE_DIR / 'sample_tests')
+        if os.environ.get('LIT_APP_RESET'):
+            self.load_tests_from_json(BASE_DIR / 'sample_tests')
 
     def load_tests_from_json(self, path):
         from lit_app.models import Question, Test
