@@ -13,7 +13,7 @@ class Question(models.Model):
     name = models.CharField(max_length=30,default=None)
     id = models.BigAutoField(primary_key=True)
     difficulty = models.IntegerField()
-    answer_blob = models.TextField()
+    content = models.TextField()
     test = models.ForeignKey(Test, on_delete=models.CASCADE)
 
 class TestSubmission(models.Model):

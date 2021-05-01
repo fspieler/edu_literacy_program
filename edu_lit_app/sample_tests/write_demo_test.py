@@ -40,7 +40,7 @@ def write_test(name, destination, levels, questions_per_level):
                 "difficulty": level,
                 "content": {
                     "type": "multiple-choice",
-                    "prompt": "What is the answer?",
+                    "prompt": f"Level {level} Question {question}<br/>What is the answer?",
                     "correct_idx": 0,
                     "answers": [
                         "the correct answer",

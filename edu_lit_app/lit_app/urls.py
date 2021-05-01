@@ -4,5 +4,10 @@ from . import views
 urlpatterns = [
     path("todo/", views.todo, name = "todo"),
     path("test/<int:test_id>/start", views.start, name = "start"),
-    path("test/<int:test_submission_id>/next-question/<int:difficulty>", views.next_question, name = "next-question")
+    path("test/<int:test_submission_id>/next-question/<int:difficulty>", views.next_question, name = "next-question"),
+    path(
+        "test/<int:test_submission_id>/question/<int:answer_id>",
+        views.answer,
+        name="answer"
+    ),
 ]

@@ -78,7 +78,7 @@ class LitAppConfig(AppConfig):
                 question_record = Question(
                     name=question['name'],
                     difficulty=question['difficulty'],
-                    answer_blob=question['content'],
+                    content=question['content'],
                     test_id=test_record.id
                 )
                 question_record.save()
