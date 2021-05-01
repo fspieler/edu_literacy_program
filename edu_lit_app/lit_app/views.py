@@ -24,11 +24,14 @@ def start(request, test_id):
     )
     test_submission.save()
 
-    return redirect(f'/test/{test_submission.id}/next-question')
+    # Difficulty level starts with 1 
+    difficulty = 1
+
+    return redirect(f'/test/{test_submission.id}/next-question/{difficulty}')
 
     # return next_question(request, test_submission.id)
 
-def next_question(request, test_submission_id, difficulty=1):
+def next_question(request, test_submission_id, difficulty):
 
     student = Student.objects.first()
 
