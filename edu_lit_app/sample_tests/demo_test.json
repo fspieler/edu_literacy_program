@@ -2,724 +2,904 @@
     "name": "Demo test",
     "questions": [
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 1",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 1",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 2",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 2",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 3",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 3",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 4",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 4",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 5",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 5",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 6",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 6",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 7",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 7",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 8",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 8",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 9",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 9",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 1,
-            "content": "Level 1 Question 10",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 1 Question 10",
+            "difficulty": 1,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 1",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 1",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 2",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 2",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 3",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 3",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 4",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 4",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 5",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 5",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 6",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 6",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 7",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 7",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 8",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 8",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 9",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 9",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 2,
-            "content": "Level 2 Question 10",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 2 Question 10",
+            "difficulty": 2,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 1",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 1",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 2",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 2",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 3",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 3",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 4",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 4",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 5",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 5",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 6",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 6",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 7",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 7",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 8",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 8",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 9",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 9",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 3,
-            "content": "Level 3 Question 10",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 3 Question 10",
+            "difficulty": 3,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 1",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 1",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 2",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 2",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 3",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 3",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 4",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 4",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 5",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 5",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 6",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 6",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 7",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 7",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 8",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 8",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 9",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 9",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 4,
-            "content": "Level 4 Question 10",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 4 Question 10",
+            "difficulty": 4,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 1",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 1",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 2",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 2",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 3",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 3",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 4",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 4",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 5",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 5",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 6",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 6",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 7",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 7",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 8",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 8",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 9",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 9",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 5,
-            "content": "Level 5 Question 10",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 5 Question 10",
+            "difficulty": 5,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 1",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 1",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 2",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 2",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 3",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 3",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 4",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 4",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 5",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 5",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 6",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 6",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 7",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 7",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 8",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 8",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 9",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 9",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         },
         {
-            "type": "multiple-choice",
-            "level": 6,
-            "content": "Level 6 Question 10",
-            "correct_idx": 0,
-            "answers": [
-                "the correct answer",
-                "an incorrect answer",
-                "an incorrect answer",
-                "an incorrect answer"
-            ]
+            "name": "Level 6 Question 10",
+            "difficulty": 6,
+            "content": {
+                "type": "multiple-choice",
+                "prompt": "What is the answer?",
+                "correct_idx": 0,
+                "answers": [
+                    "the correct answer",
+                    "an incorrect answer",
+                    "an incorrect answer",
+                    "an incorrect answer"
+                ]
+            }
         }
     ]
 }

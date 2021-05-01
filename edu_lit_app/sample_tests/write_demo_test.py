@@ -36,16 +36,19 @@ def write_test(name, destination, levels, questions_per_level):
     for level in range(1, levels+1): # 1-indexed
         for question in range(1, questions_per_level+1): # 1-indexed
             test["questions"].append({
-                "type": "multiple-choice",
-                "level": level,
-                "content": f"Level {level} Question {question}",
-                "correct_idx": 0,
-                "answers": [
-                    "the correct answer",
-                    "an incorrect answer",
-                    "an incorrect answer",
-                    "an incorrect answer"
-                ]
+                "name": f"Level {level} Question {question}",
+                "difficulty": level,
+                "content": {
+                    "type": "multiple-choice",
+                    "prompt": "What is the answer?",
+                    "correct_idx": 0,
+                    "answers": [
+                        "the correct answer",
+                        "an incorrect answer",
+                        "an incorrect answer",
+                        "an incorrect answer"
+                    ]
+                }
             })
     with open(destination, 'w') as f:
         json.dump(test, f, indent=4)
